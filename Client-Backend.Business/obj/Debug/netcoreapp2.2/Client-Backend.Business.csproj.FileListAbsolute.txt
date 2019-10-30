@@ -1,0 +1,14 @@
+D:\client-backend\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Business.deps.json
+D:\client-backend\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Business.runtimeconfig.json
+D:\client-backend\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Business.runtimeconfig.dev.json
+D:\client-backend\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Business.dll
+D:\client-backend\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Business.pdb
+D:\client-backend\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Domain.dll
+D:\client-backend\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Domain.pdb
+D:\client-backend\Client-Backend.Business\obj\Debug\netcoreapp2.2\Client-Backend.Business.csprojAssemblyReference.cache
+D:\client-backend\Client-Backend.Business\obj\Debug\netcoreapp2.2\Client-Backend.Business.csproj.CoreCompileInputs.cache
+D:\client-backend\Client-Backend.Business\obj\Debug\netcoreapp2.2\Client-Backend.Business.AssemblyInfoInputs.cache
+D:\client-backend\Client-Backend.Business\obj\Debug\netcoreapp2.2\Client-Backend.Business.AssemblyInfo.cs
+D:\client-backend\Client-Backend.Business\obj\Debug\netcoreapp2.2\Client-Backend.Business.csproj.CopyComplete
+D:\client-backend\Client-Backend.Business\obj\Debug\netcoreapp2.2\Client-Backend.Business.dll
+D:\client-backend\Client-Backend.Business\obj\Debug\netcoreapp2.2\Client-Backend.Business.pdb

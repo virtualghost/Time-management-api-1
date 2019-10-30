@@ -1,0 +1,11 @@
+D:\client-backend\Client-Backend.Domain\bin\Release\netcoreapp2.2\Client-Backend.Domain.deps.json
+D:\client-backend\Client-Backend.Domain\bin\Release\netcoreapp2.2\Client-Backend.Domain.runtimeconfig.json
+D:\client-backend\Client-Backend.Domain\bin\Release\netcoreapp2.2\Client-Backend.Domain.runtimeconfig.dev.json
+D:\client-backend\Client-Backend.Domain\bin\Release\netcoreapp2.2\Client-Backend.Domain.dll
+D:\client-backend\Client-Backend.Domain\bin\Release\netcoreapp2.2\Client-Backend.Domain.pdb
+D:\client-backend\Client-Backend.Domain\obj\Release\netcoreapp2.2\Client-Backend.Domain.csprojAssemblyReference.cache
+D:\client-backend\Client-Backend.Domain\obj\Release\netcoreapp2.2\Client-Backend.Domain.csproj.CoreCompileInputs.cache
+D:\client-backend\Client-Backend.Domain\obj\Release\netcoreapp2.2\Client-Backend.Domain.AssemblyInfoInputs.cache
+D:\client-backend\Client-Backend.Domain\obj\Release\netcoreapp2.2\Client-Backend.Domain.AssemblyInfo.cs
+D:\client-backend\Client-Backend.Domain\obj\Release\netcoreapp2.2\Client-Backend.Domain.dll
+D:\client-backend\Client-Backend.Domain\obj\Release\netcoreapp2.2\Client-Backend.Domain.pdb
