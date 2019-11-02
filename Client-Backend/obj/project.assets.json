@@ -9418,11 +9418,12 @@
       ]
     },
     "runtime.native.System.Net.Security/4.3.0": {
-      "sha512": "ARfgeRYF2AnYIcqEvy9VE0agN/3zexMMPtcegq1THpOMS63rIGMi706vCo6pbv9Xzw4qhdX1Gu1zyLZHj2WtLA==",
+      "sha512": "M2nN92ePS8BgQ2oi6Jj3PlTUzadYSIWLdZrHY1n1ZcW9o4wAQQ6W+aQ2lfq1ysZQfVCgDwY58alUdowrzezztg==",
       "type": "package",
       "path": "runtime.native.system.net.security/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -13342,11 +13343,12 @@
       ]
     },
     "System.Security.Cryptography.OpenSsl/4.3.0": {
-      "sha512": "vOYy7Jv9KsG3ld2hLt0GoERd82SZi4BelrbXLwI9yFBYX7kpbvUCWYo4eyevk47cuJXZ9ZLVAryANcc7iY71aA==",
+      "sha512": "h4CEgOgv5PKVF/HwaHzJRiVboL2THYCou97zpmhjghx5frc7fIvlkY1jL+lnIQyChrJDMNEXS6r7byGif8Cy4w==",
       "type": "package",
       "path": "system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.6/System.Security.Cryptography.OpenSsl.dll",
@@ -14554,11 +14556,12 @@
       ]
     },
     "System.Xml.XmlSerializer/4.3.0": {
-      "sha512": "VShQJhOxgD/5M2Z1IWm1vMaSqlbjo1zdFf8H7Ahte6bTvSUhUko/gDpAVVhGgGgTDeue4QyNg1fu1Zz2GKSEuQ==",
+      "sha512": "MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -14755,43 +14758,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\l.dobrescu\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/laurentiu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\client-backend\\Client-Backend\\Client-Backend.Api.csproj",
+      "projectUniqueName": "/home/laurentiu/Programare/client-backend/Client-Backend/Client-Backend.Api.csproj",
       "projectName": "Client-Backend.Api",
-      "projectPath": "D:\\client-backend\\Client-Backend\\Client-Backend.Api.csproj",
-      "packagesPath": "C:\\Users\\l.dobrescu\\.nuget\\packages\\",
-      "outputPath": "D:\\client-backend\\Client-Backend\\obj\\",
+      "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend/Client-Backend.Api.csproj",
+      "packagesPath": "/home/laurentiu/.nuget/packages/",
+      "outputPath": "/home/laurentiu/Programare/client-backend/Client-Backend/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\l.dobrescu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/laurentiu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\client-backend\\Client-Backend.Business\\Client-Backend.Business.csproj": {
-              "projectPath": "D:\\client-backend\\Client-Backend.Business\\Client-Backend.Business.csproj"
+            "/home/laurentiu/Programare/client-backend/Client-Backend.Business/Client-Backend.Business.csproj": {
+              "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Business/Client-Backend.Business.csproj"
             },
-            "D:\\client-backend\\Client-Backend.DataAccess\\Client-Backend.DataAccess.csproj": {
-              "projectPath": "D:\\client-backend\\Client-Backend.DataAccess\\Client-Backend.DataAccess.csproj"
+            "/home/laurentiu/Programare/client-backend/Client-Backend.DataAccess/Client-Backend.DataAccess.csproj": {
+              "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.DataAccess/Client-Backend.DataAccess.csproj"
             },
-            "D:\\client-backend\\Client-Backend.Domain\\Client-Backend.Domain.csproj": {
-              "projectPath": "D:\\client-backend\\Client-Backend.Domain\\Client-Backend.Domain.csproj"
+            "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj": {
+              "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj"
             }
           }
         }
@@ -14844,10 +14841,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -14856,7 +14859,7 @@
       "code": "NU1701",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Microsoft.AspNet.Mvc.Core 6.0.0-rc1-final' was restored using '.NETFramework,Version=v4.6.1' instead of the project target framework '.NETCoreApp,Version=v2.2'. This package may not be fully compatible with your project.",
+      "message": "Package 'Microsoft.AspNet.Mvc.Core 6.0.0-rc1-final' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v2.2'. This package may not be fully compatible with your project.",
       "libraryId": "Microsoft.AspNet.Mvc.Core",
       "targetGraphs": [
         ".NETCoreApp,Version=v2.2"

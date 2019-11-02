@@ -3,7 +3,6 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
-using Client_Backend.Domain.Entities;
 
 namespace Client_Backend.DataAccess
 {
@@ -13,8 +12,6 @@ namespace Client_Backend.DataAccess
         {
 
         }
-
-        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
