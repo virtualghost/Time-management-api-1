@@ -1,13 +1,12 @@
-﻿using AutoMapper;
-using Client_Backend.DataAccess;
+﻿using Client_Backend.DataAccess;
 using Client_Backend.Helpers;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Hosting;
 
 namespace Client_Backend
 {
@@ -24,20 +23,13 @@ namespace Client_Backend
         {
             
             ConfigureServicesDependency(services);
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            
             
             //get local database ConnectionString from AppSettings
-            services.AddDbContext<PlayerDbContext>(options => options.UseSqlServer(Configuration["ConnectionString:Develop"]));
+            
 
             //Add automapper
-            var mappingConfig = new MapperConfiguration(mc =>
-            {
-                mc.AddProfile(new MappingProfile());
-            });
-
-            IMapper mapper = mappingConfig.CreateMapper();
-
-            services.AddSingleton(mapper);
+            
         }
 
         private void ConfigureServicesDependency(IServiceCollection services)
@@ -45,7 +37,7 @@ namespace Client_Backend
             
         }
 
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env,
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env,
             ILoggerFactory loggerFactory)
         {
             if (env.IsDevelopment())
@@ -54,10 +46,23 @@ namespace Client_Backend
             }
             else
             {
-                
-            }            
+                app.UseExceptionHandler("/Error");
+                app.UseHsts();
+            }
 
-            app.UseMvc();
+            app.UseHttpsRedirection();
+            app.UseStaticFiles();
+
+            app.UseRouting();
+
+            app.UseAuthorization();
+
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapRazorPages();
+            });
+
+            
         }
     }
 }
