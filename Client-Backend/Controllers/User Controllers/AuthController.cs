@@ -19,11 +19,12 @@ namespace Client_Backend.Controllers.User_Controllers
             _signInManager = SignInManager;
         }
 
-        [HttpGet]
+        /*[HttpGet]
         public ViewResult Register()
         {
-            return View();
+            return StatusCode(200);
         }
+        */
 
         [HttpPost]
         public async Task<IActionResult> Register(UserRegistration model)
@@ -51,21 +52,21 @@ namespace Client_Backend.Controllers.User_Controllers
                     }
                 }
             }
-            return View();
+            return StatusCode(202);
         }
 
         [HttpPost]
         public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();
-            return RedirectToAction("Index");
+            return StatusCode(205);
         }
 
         [HttpGet]
         public IActionResult Login(string ReturnUrl = "")
         {
             var model = new UserLogin { ReturnUrl = ReturnUrl };
-            return View(model);
+            return StatusCode(200); // "no content, refresh; refresh client view
         }
 
         [HttpPost]
@@ -86,71 +87,7 @@ namespace Client_Backend.Controllers.User_Controllers
                 }
             }
             ModelState.AddModelError("", "Invalid login attempt");
-            return View(model);
+            return StatusCode(403); // implicit failure, failed login, includes bad credentials/permissions
         }
-
-        /*[HttpGet]
-        public ActionResult Index()
-        {
-            return View();
-        }
-
-        [HttpGet]
-        public ActionResult Details(int id)
-        {
-            return View();
-        }
-
-        [HttpGet]
-        public ActionResult Create()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public ActionResult Create(UserRegistration UserRegistrationModel)
-        {
-            User user = new User
-            {
-                ID = UserRegistrationModel.ID,
-                FirstName = UserRegistrationModel.FirstName,
-                LastName = UserRegistrationModel.LastName,
-                UserName = UserRegistrationModel.UserName,
-                EmailAddress = UserRegistrationModel.EmailAddress
-            };
-            if (UserRegistrationModel.Password == UserRegistrationModel.ConfirmPassword)
-            {
-                user.Password = UserRegistrationModel.Password;
-            }
-            try
-            {
-                if (ModelState.IsValid)
-                {
-                    //Need to find a way to initialize the database variable
-                }
-            }
-            catch (Exception exception)
-            {
-                return View();
-            }
-        }
-
-        [HttpGet]
-        public ActionResult Update(int id)
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public ActionResult Update(int id)
-        {
-            //Update logic
-        }
-
-
-
-
-        }
-        */
     }
 }
