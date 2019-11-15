@@ -25,3 +25,16 @@ D:/client-backend/Client-Backend.Business/obj/Debug/netcoreapp2.2/Client-Backend
 /home/laurentiu/Programare/client-backend/Client-Backend.Business/obj/Debug/netcoreapp2.2/Client-Backend.Business.csproj.CopyComplete
 /home/laurentiu/Programare/client-backend/Client-Backend.Business/obj/Debug/netcoreapp2.2/Client-Backend.Business.dll
 /home/laurentiu/Programare/client-backend/Client-Backend.Business/obj/Debug/netcoreapp2.2/Client-Backend.Business.pdb
+E:\time management\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Business.deps.json
+E:\time management\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Business.runtimeconfig.json
+E:\time management\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Business.runtimeconfig.dev.json
+E:\time management\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Business.dll
+E:\time management\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Business.pdb
+E:\time management\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Domain.dll
+E:\time management\Client-Backend.Business\bin\Debug\netcoreapp2.2\Client-Backend.Domain.pdb
+E:\time management\Client-Backend.Business\obj\Debug\netcoreapp2.2\Client-Backend.Business.csprojAssemblyReference.cache
+E:\time management\Client-Backend.Business\obj\Debug\netcoreapp2.2\Client-Backend.Business.AssemblyInfoInputs.cache
+E:\time management\Client-Backend.Business\obj\Debug\netcoreapp2.2\Client-Backend.Business.AssemblyInfo.cs
+E:\time management\Client-Backend.Business\obj\Debug\netcoreapp2.2\Client-Backend.Business.csproj.CopyComplete
+E:\time management\Client-Backend.Business\obj\Debug\netcoreapp2.2\Client-Backend.Business.dll
+E:\time management\Client-Backend.Business\obj\Debug\netcoreapp2.2\Client-Backend.Business.pdb

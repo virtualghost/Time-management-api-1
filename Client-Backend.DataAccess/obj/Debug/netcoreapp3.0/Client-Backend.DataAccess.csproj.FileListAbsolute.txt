@@ -1,0 +1,13 @@
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\Client-Backend.DataAccess.deps.json
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\Client-Backend.DataAccess.runtimeconfig.json
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\Client-Backend.DataAccess.runtimeconfig.dev.json
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\Client-Backend.DataAccess.dll
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\Client-Backend.DataAccess.pdb
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\Client-Backend.Domain.dll
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\Client-Backend.Domain.pdb
+E:\time management\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\Client-Backend.DataAccess.csprojAssemblyReference.cache
+E:\time management\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\Client-Backend.DataAccess.AssemblyInfoInputs.cache
+E:\time management\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\Client-Backend.DataAccess.AssemblyInfo.cs
+E:\time management\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\Client-Backend.DataAccess.csproj.CopyComplete
+E:\time management\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\Client-Backend.DataAccess.dll
+E:\time management\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\Client-Backend.DataAccess.pdb

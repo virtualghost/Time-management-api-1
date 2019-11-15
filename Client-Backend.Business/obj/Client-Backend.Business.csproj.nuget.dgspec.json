@@ -1,32 +1,39 @@
 {
   "format": 1,
   "restore": {
-    "/home/laurentiu/Programare/client-backend/Client-Backend.Business/Client-Backend.Business.csproj": {}
+    "E:\\time management\\Client-Backend.Business\\Client-Backend.Business.csproj": {}
   },
   "projects": {
-    "/home/laurentiu/Programare/client-backend/Client-Backend.Business/Client-Backend.Business.csproj": {
+    "E:\\time management\\Client-Backend.Business\\Client-Backend.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/laurentiu/Programare/client-backend/Client-Backend.Business/Client-Backend.Business.csproj",
+        "projectUniqueName": "E:\\time management\\Client-Backend.Business\\Client-Backend.Business.csproj",
         "projectName": "Client-Backend.Business",
-        "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Business/Client-Backend.Business.csproj",
-        "packagesPath": "/home/laurentiu/.nuget/packages/",
-        "outputPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Business/obj/",
+        "projectPath": "E:\\time management\\Client-Backend.Business\\Client-Backend.Business.csproj",
+        "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
+        "outputPath": "E:\\time management\\Client-Backend.Business\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Microsoft\\Xamarin\\NuGet\\",
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/laurentiu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.0": {
             "projectReferences": {
-              "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj": {
-                "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj"
+              "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj": {
+                "projectPath": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj"
               }
             }
           }
@@ -38,25 +45,27 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp3.0": {
           "dependencies": {
-            "AutoMapper": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[3.0.0, )"
             },
-            "Microsoft.AspNetCore.All": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[3.0.0, )"
             },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
+            "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
+              "version": "[3.0.0, )"
             },
-            "Novell.Directory.Ldap.NETStandard2_0": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             }
           },
           "imports": [
@@ -69,30 +78,45 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj": {
+    "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj",
+        "projectUniqueName": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj",
         "projectName": "Client-Backend.Domain",
-        "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj",
-        "packagesPath": "/home/laurentiu/.nuget/packages/",
-        "outputPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/obj/",
+        "projectPath": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj",
+        "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
+        "outputPath": "E:\\time management\\Client-Backend.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Microsoft\\Xamarin\\NuGet\\",
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/laurentiu/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp2.2"
+          "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp2.2": {
+          "netcoreapp3.0": {
             "projectReferences": {}
           }
         },
@@ -103,21 +127,27 @@
         }
       },
       "frameworks": {
-        "netcoreapp2.2": {
+        "netcoreapp3.0": {
           "dependencies": {
-            "AutoMapper": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[9.0.0, )"
+              "version": "[3.0.0, )"
             },
-            "Microsoft.AspNetCore.All": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[3.0.0, )"
             },
-            "Microsoft.NETCore.App": {
-              "suppressParent": "All",
+            "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[2.2.0, )",
-              "autoReferenced": true
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[3.0.0, )"
             }
           },
           "imports": [
@@ -130,7 +160,15 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

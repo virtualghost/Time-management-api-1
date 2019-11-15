@@ -14,7 +14,7 @@
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
-      "launchUrl": "api/health"
+      "launchUrl": ""
     },
     "Client-Backend.Api": {
       "commandName": "Project",

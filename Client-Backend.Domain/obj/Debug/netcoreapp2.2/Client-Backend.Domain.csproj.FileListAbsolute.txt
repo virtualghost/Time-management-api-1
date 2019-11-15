@@ -19,3 +19,13 @@ D:/client-backend/Client-Backend.Domain/obj/Debug/netcoreapp2.2/Client-Backend.D
 /home/laurentiu/Programare/client-backend/Client-Backend.Domain/obj/Debug/netcoreapp2.2/Client-Backend.Domain.AssemblyInfo.cs
 /home/laurentiu/Programare/client-backend/Client-Backend.Domain/obj/Debug/netcoreapp2.2/Client-Backend.Domain.dll
 /home/laurentiu/Programare/client-backend/Client-Backend.Domain/obj/Debug/netcoreapp2.2/Client-Backend.Domain.pdb
+E:\time management\Client-Backend.Domain\bin\Debug\netcoreapp2.2\Client-Backend.Domain.deps.json
+E:\time management\Client-Backend.Domain\bin\Debug\netcoreapp2.2\Client-Backend.Domain.runtimeconfig.json
+E:\time management\Client-Backend.Domain\bin\Debug\netcoreapp2.2\Client-Backend.Domain.runtimeconfig.dev.json
+E:\time management\Client-Backend.Domain\bin\Debug\netcoreapp2.2\Client-Backend.Domain.dll
+E:\time management\Client-Backend.Domain\bin\Debug\netcoreapp2.2\Client-Backend.Domain.pdb
+E:\time management\Client-Backend.Domain\obj\Debug\netcoreapp2.2\Client-Backend.Domain.csprojAssemblyReference.cache
+E:\time management\Client-Backend.Domain\obj\Debug\netcoreapp2.2\Client-Backend.Domain.AssemblyInfoInputs.cache
+E:\time management\Client-Backend.Domain\obj\Debug\netcoreapp2.2\Client-Backend.Domain.AssemblyInfo.cs
+E:\time management\Client-Backend.Domain\obj\Debug\netcoreapp2.2\Client-Backend.Domain.dll
+E:\time management\Client-Backend.Domain\obj\Debug\netcoreapp2.2\Client-Backend.Domain.pdb

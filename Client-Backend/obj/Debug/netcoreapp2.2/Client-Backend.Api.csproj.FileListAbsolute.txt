@@ -42,3 +42,26 @@ D:/client-backend/Client-Backend/obj/Debug/netcoreapp2.2/Client-Backend.Api.pdb
 /home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp2.2/Client-Backend.Domain.pdb
 /home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp2.2/Client-Backend.Api.RazorTargetAssemblyInfo.cache
 /home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp2.2/Client-Backend.Api.csproj.CopyComplete
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\appsettings.json
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\Client-Backend.Api.deps.json
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\Client-Backend.Api.runtimeconfig.json
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\Client-Backend.Api.runtimeconfig.dev.json
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\Client-Backend.Api.dll
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\Client-Backend.Api.pdb
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\Client-Backend.Business.dll
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\Client-Backend.DataAccess.dll
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\Client-Backend.Domain.dll
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\Client-Backend.Business.pdb
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\Client-Backend.DataAccess.pdb
+E:\time management\Client-Backend\bin\Debug\netcoreapp2.2\Client-Backend.Domain.pdb
+E:\time management\Client-Backend\obj\Debug\netcoreapp2.2\Client-Backend.Api.csprojAssemblyReference.cache
+E:\time management\Client-Backend\obj\Debug\netcoreapp2.2\Client-Backend.Api.RazorAssemblyInfo.cache
+E:\time management\Client-Backend\obj\Debug\netcoreapp2.2\Client-Backend.Api.RazorAssemblyInfo.cs
+E:\time management\Client-Backend\obj\Debug\netcoreapp2.2\Client-Backend.Api.AssemblyInfoInputs.cache
+E:\time management\Client-Backend\obj\Debug\netcoreapp2.2\Client-Backend.Api.AssemblyInfo.cs
+E:\time management\Client-Backend\obj\Debug\netcoreapp2.2\Client-Backend.Api.RazorTargetAssemblyInfo.cache
+E:\time management\Client-Backend\obj\Debug\netcoreapp2.2\Client-Backend.Api.csproj.CopyComplete
+E:\time management\Client-Backend\obj\Debug\netcoreapp2.2\Client-Backend.Api.dll
+E:\time management\Client-Backend\obj\Debug\netcoreapp2.2\Client-Backend.Api.pdb
