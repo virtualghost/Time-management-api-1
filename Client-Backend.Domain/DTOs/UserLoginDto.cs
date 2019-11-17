@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Text;
 
-namespace Client_Backend.DataAccess
+namespace Client_Backend.Domain
 {
     public class UserLogin
     {

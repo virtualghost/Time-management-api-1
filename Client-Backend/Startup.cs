@@ -35,6 +35,10 @@ namespace Client_Backend
                     setupAction.ReturnHttpNotAcceptable = true;
                     setupAction.EnableEndpointRouting = false;
                 }).SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
+
+            services.AddCors(options => options.AddPolicy("AllowAllOrigins", builder => builder.AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader()));
             //Add automapper
 
         }
@@ -60,7 +64,7 @@ namespace Client_Backend
                 app.UseExceptionHandler("/Error");
                 app.UseHsts();
             }
-
+            app.UseCors("AllowAllOrigins");
             app.UseAuthorization();
             app.UseMvc();
         }

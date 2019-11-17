@@ -1,13 +1,26 @@
-E:\time management\Client-Backend.Business\bin\Debug\netcoreapp3.0\Client-Backend.Business.deps.json
-E:\time management\Client-Backend.Business\bin\Debug\netcoreapp3.0\Client-Backend.Business.runtimeconfig.json
-E:\time management\Client-Backend.Business\bin\Debug\netcoreapp3.0\Client-Backend.Business.runtimeconfig.dev.json
-E:\time management\Client-Backend.Business\bin\Debug\netcoreapp3.0\Client-Backend.Business.dll
-E:\time management\Client-Backend.Business\bin\Debug\netcoreapp3.0\Client-Backend.Business.pdb
-E:\time management\Client-Backend.Business\bin\Debug\netcoreapp3.0\Client-Backend.Domain.dll
-E:\time management\Client-Backend.Business\bin\Debug\netcoreapp3.0\Client-Backend.Domain.pdb
-E:\time management\Client-Backend.Business\obj\Debug\netcoreapp3.0\Client-Backend.Business.csprojAssemblyReference.cache
-E:\time management\Client-Backend.Business\obj\Debug\netcoreapp3.0\Client-Backend.Business.AssemblyInfoInputs.cache
-E:\time management\Client-Backend.Business\obj\Debug\netcoreapp3.0\Client-Backend.Business.AssemblyInfo.cs
-E:\time management\Client-Backend.Business\obj\Debug\netcoreapp3.0\Client-Backend.Business.csproj.CopyComplete
-E:\time management\Client-Backend.Business\obj\Debug\netcoreapp3.0\Client-Backend.Business.dll
-E:\time management\Client-Backend.Business\obj\Debug\netcoreapp3.0\Client-Backend.Business.pdb
+E:/time management/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Business.deps.json
+E:/time management/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Business.runtimeconfig.json
+E:/time management/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Business.runtimeconfig.dev.json
+E:/time management/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Business.dll
+E:/time management/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Business.pdb
+E:/time management/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Domain.dll
+E:/time management/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Domain.pdb
+E:/time management/Client-Backend.Business/obj/Debug/netcoreapp3.0/Client-Backend.Business.csprojAssemblyReference.cache
+E:/time management/Client-Backend.Business/obj/Debug/netcoreapp3.0/Client-Backend.Business.AssemblyInfoInputs.cache
+E:/time management/Client-Backend.Business/obj/Debug/netcoreapp3.0/Client-Backend.Business.AssemblyInfo.cs
+E:/time management/Client-Backend.Business/obj/Debug/netcoreapp3.0/Client-Backend.Business.csproj.CopyComplete
+E:/time management/Client-Backend.Business/obj/Debug/netcoreapp3.0/Client-Backend.Business.dll
+E:/time management/Client-Backend.Business/obj/Debug/netcoreapp3.0/Client-Backend.Business.pdb
+/home/laurentiu/Programare/client-backend/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Business.deps.json
+/home/laurentiu/Programare/client-backend/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Business.runtimeconfig.json
+/home/laurentiu/Programare/client-backend/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Business.runtimeconfig.dev.json
+/home/laurentiu/Programare/client-backend/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Business.dll
+/home/laurentiu/Programare/client-backend/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Business.pdb
+/home/laurentiu/Programare/client-backend/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Domain.dll
+/home/laurentiu/Programare/client-backend/Client-Backend.Business/bin/Debug/netcoreapp3.0/Client-Backend.Domain.pdb
+/home/laurentiu/Programare/client-backend/Client-Backend.Business/obj/Debug/netcoreapp3.0/Client-Backend.Business.csprojAssemblyReference.cache
+/home/laurentiu/Programare/client-backend/Client-Backend.Business/obj/Debug/netcoreapp3.0/Client-Backend.Business.AssemblyInfoInputs.cache
+/home/laurentiu/Programare/client-backend/Client-Backend.Business/obj/Debug/netcoreapp3.0/Client-Backend.Business.AssemblyInfo.cs
+/home/laurentiu/Programare/client-backend/Client-Backend.Business/obj/Debug/netcoreapp3.0/Client-Backend.Business.csproj.CopyComplete
+/home/laurentiu/Programare/client-backend/Client-Backend.Business/obj/Debug/netcoreapp3.0/Client-Backend.Business.dll
+/home/laurentiu/Programare/client-backend/Client-Backend.Business/obj/Debug/netcoreapp3.0/Client-Backend.Business.pdb
