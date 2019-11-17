@@ -1,11 +1,14 @@
-﻿using Client_Backend.DataAccess;
+﻿using Client_Backend.Domain;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Hosting;
+using Microsoft.AspNetCore.Mvc;
+using Client_Backend.DataAccess;
 
 namespace Client_Backend
 {
@@ -24,15 +27,25 @@ namespace Client_Backend
             ConfigureServicesDependency(services);
             services.AddAuthorization();
             //get local database ConnectionString from AppSettings
+            services.AddDbContext<ApplicationDbContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("Development")));
 
-
+            services.AddMvc(setupAction =>
+                {
+                    setupAction.ReturnHttpNotAcceptable = true;
+                    setupAction.EnableEndpointRouting = false;
+                }).SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
             //Add automapper
 
         }
 
         private void ConfigureServicesDependency(IServiceCollection services)
         {
-            
+            services.AddTransient<UserManager<User>>();
+            services.AddIdentity<User, IdentityRole>()
+                .AddEntityFrameworkStores<ApplicationDbContext>();
+
+            //services.AddTransient<I
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env,
@@ -48,16 +61,8 @@ namespace Client_Backend
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
-            app.UseStaticFiles();
-
-            app.UseRouting();
-
             app.UseAuthorization();
-
-            
-
-            
+            app.UseMvc();
         }
     }
 }

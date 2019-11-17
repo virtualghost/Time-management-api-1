@@ -3,21 +3,21 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using Client_Backend.DataAccess;
+using Client_Backend.Domain;
 using Microsoft.AspNetCore.Identity;
 
-namespace Client_Backend.Controllers.User_Controllers
+namespace Client_Backend.Controllers.UserController
 {
     [Route("api/[controller]")]
     public class AuthController : Controller
     {
-        private SignInManager<User> _signInManager;
-        private UserManager<User> _userManager;
+        private readonly SignInManager<User> _signInManager;
+        private readonly UserManager<User> _userManager;
 
-        public AuthController(UserManager<User> UserManager, SignInManager<User> SignInManager)
+        public AuthController(UserManager<User> userManager, SignInManager<User> signInManager)
         {
-            _userManager = UserManager;
-            _signInManager = SignInManager;
+            _userManager = userManager;
+            _signInManager = signInManager;
         }
 
         [HttpPost("Register")]
@@ -57,9 +57,9 @@ namespace Client_Backend.Controllers.User_Controllers
         }
 
         [HttpGet("Login")]
-        public IActionResult Login(string ReturnUrl = "")
+        public IActionResult Login(string returnUrl = "")
         {
-            var model = new UserLogin { ReturnUrl = ReturnUrl };
+            var model = new UserLogin { ReturnUrl = returnUrl };
             return StatusCode(200); // "no content, refresh; refresh client view
         }
 

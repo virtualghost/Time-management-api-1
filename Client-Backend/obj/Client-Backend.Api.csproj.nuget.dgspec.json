@@ -1,39 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "E:\\time management\\Client-Backend\\Client-Backend.Api.csproj": {}
+    "/home/laurentiu/Programare/client-backend/Client-Backend/Client-Backend.Api.csproj": {}
   },
   "projects": {
-    "E:\\time management\\Client-Backend.Business\\Client-Backend.Business.csproj": {
+    "/home/laurentiu/Programare/client-backend/Client-Backend.Business/Client-Backend.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\time management\\Client-Backend.Business\\Client-Backend.Business.csproj",
+        "projectUniqueName": "/home/laurentiu/Programare/client-backend/Client-Backend.Business/Client-Backend.Business.csproj",
         "projectName": "Client-Backend.Business",
-        "projectPath": "E:\\time management\\Client-Backend.Business\\Client-Backend.Business.csproj",
-        "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-        "outputPath": "E:\\time management\\Client-Backend.Business\\obj\\",
+        "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Business/Client-Backend.Business.csproj",
+        "packagesPath": "/home/laurentiu/.nuget/packages/",
+        "outputPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Business/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "G:\\Microsoft\\Xamarin\\NuGet\\",
-          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/laurentiu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj": {
-                "projectPath": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj"
+              "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj": {
+                "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj"
               }
             }
           }
@@ -79,47 +72,37 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\time management\\Client-Backend.DataAccess\\Client-Backend.DataAccess.csproj": {
+    "/home/laurentiu/Programare/client-backend/Client-Backend.DataAccess/Client-Backend.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\time management\\Client-Backend.DataAccess\\Client-Backend.DataAccess.csproj",
+        "projectUniqueName": "/home/laurentiu/Programare/client-backend/Client-Backend.DataAccess/Client-Backend.DataAccess.csproj",
         "projectName": "Client-Backend.DataAccess",
-        "projectPath": "E:\\time management\\Client-Backend.DataAccess\\Client-Backend.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-        "outputPath": "E:\\time management\\Client-Backend.DataAccess\\obj\\",
+        "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.DataAccess/Client-Backend.DataAccess.csproj",
+        "packagesPath": "/home/laurentiu/.nuget/packages/",
+        "outputPath": "/home/laurentiu/Programare/client-backend/Client-Backend.DataAccess/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "G:\\Microsoft\\Xamarin\\NuGet\\",
-          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/laurentiu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj": {
-                "projectPath": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj"
+              "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj": {
+                "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj"
               }
             }
           }
@@ -165,40 +148,30 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj": {
+    "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj",
+        "projectUniqueName": "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj",
         "projectName": "Client-Backend.Domain",
-        "projectPath": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj",
-        "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-        "outputPath": "E:\\time management\\Client-Backend.Domain\\obj\\",
+        "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj",
+        "packagesPath": "/home/laurentiu/.nuget/packages/",
+        "outputPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "G:\\Microsoft\\Xamarin\\NuGet\\",
-          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/laurentiu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -247,53 +220,43 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\time management\\Client-Backend\\Client-Backend.Api.csproj": {
+    "/home/laurentiu/Programare/client-backend/Client-Backend/Client-Backend.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\time management\\Client-Backend\\Client-Backend.Api.csproj",
+        "projectUniqueName": "/home/laurentiu/Programare/client-backend/Client-Backend/Client-Backend.Api.csproj",
         "projectName": "Client-Backend.Api",
-        "projectPath": "E:\\time management\\Client-Backend\\Client-Backend.Api.csproj",
-        "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-        "outputPath": "E:\\time management\\Client-Backend\\obj\\",
+        "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend/Client-Backend.Api.csproj",
+        "packagesPath": "/home/laurentiu/.nuget/packages/",
+        "outputPath": "/home/laurentiu/Programare/client-backend/Client-Backend/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "G:\\Microsoft\\Xamarin\\NuGet\\",
-          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/laurentiu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "E:\\time management\\Client-Backend.Business\\Client-Backend.Business.csproj": {
-                "projectPath": "E:\\time management\\Client-Backend.Business\\Client-Backend.Business.csproj"
+              "/home/laurentiu/Programare/client-backend/Client-Backend.Business/Client-Backend.Business.csproj": {
+                "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Business/Client-Backend.Business.csproj"
               },
-              "E:\\time management\\Client-Backend.DataAccess\\Client-Backend.DataAccess.csproj": {
-                "projectPath": "E:\\time management\\Client-Backend.DataAccess\\Client-Backend.DataAccess.csproj"
+              "/home/laurentiu/Programare/client-backend/Client-Backend.DataAccess/Client-Backend.DataAccess.csproj": {
+                "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.DataAccess/Client-Backend.DataAccess.csproj"
               },
-              "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj": {
-                "projectPath": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj"
+              "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj": {
+                "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/Client-Backend.Domain.csproj"
               }
             }
           }
@@ -346,7 +309,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
