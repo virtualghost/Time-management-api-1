@@ -1395,7 +1395,7 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "Client-Backend.Domain/1.0.0": {
+      "MicroDay-Backend.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
@@ -1406,10 +1406,10 @@
           "Microsoft.EntityFrameworkCore.Tools": "3.0.0"
         },
         "compile": {
-          "bin/placeholder/Client-Backend.Domain.dll": {}
+          "bin/placeholder/MicroDay-Backend.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Client-Backend.Domain.dll": {}
+          "bin/placeholder/MicroDay-Backend.Domain.dll": {}
         }
       }
     }
@@ -5263,15 +5263,15 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "Client-Backend.Domain/1.0.0": {
+    "MicroDay-Backend.Domain/1.0.0": {
       "type": "project",
-      "path": "../Client-Backend.Domain/Client-Backend.Domain.csproj",
-      "msbuildProject": "../Client-Backend.Domain/Client-Backend.Domain.csproj"
+      "path": "../Client-Backend.Domain/MicroDay-Backend.Domain.csproj",
+      "msbuildProject": "../Client-Backend.Domain/MicroDay-Backend.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Client-Backend.Domain >= 1.0.0",
+      "MicroDay-Backend.Domain >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.0.0",
       "Microsoft.AspNetCore.Identity.UI >= 3.0.0",
@@ -5287,9 +5287,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\time management\\Client-Backend.Business\\Client-Backend.Business.csproj",
-      "projectName": "Client-Backend.Business",
-      "projectPath": "E:\\time management\\Client-Backend.Business\\Client-Backend.Business.csproj",
+      "projectUniqueName": "E:\\time management\\Client-Backend.Business\\MicroDay-Backend.csproj",
+      "projectName": "MicroDay-Backend",
+      "projectPath": "E:\\time management\\Client-Backend.Business\\MicroDay-Backend.csproj",
       "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
       "outputPath": "E:\\time management\\Client-Backend.Business\\obj\\",
       "projectStyle": "PackageReference",
@@ -5312,8 +5312,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj": {
-              "projectPath": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj"
+            "E:\\time management\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
+              "projectPath": "E:\\time management\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj"
             }
           }
         }
@@ -5359,9 +5359,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }

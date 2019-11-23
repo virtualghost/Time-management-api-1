@@ -5264,9 +5264,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj",
-      "projectName": "Client-Backend.Domain",
-      "projectPath": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj",
+      "projectUniqueName": "E:\\time management\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj",
+      "projectName": "MicroDay-Backend.Domain",
+      "projectPath": "E:\\time management\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj",
       "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
       "outputPath": "E:\\time management\\Client-Backend.Domain\\obj\\",
       "projectStyle": "PackageReference",
@@ -5332,9 +5332,6 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
