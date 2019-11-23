@@ -24,7 +24,11 @@ namespace Client_Backend
             ConfigureServicesDependency(services);
             services.AddAuthorization();
             //get local database ConnectionString from AppSettings
-
+            services.AddMvc(setupAction =>
+            {
+                setupAction.ReturnHttpNotAcceptable = true;
+                setupAction.EnableEndpointRouting = false;
+            });
 
             //Add automapper
 
@@ -55,7 +59,6 @@ namespace Client_Backend
 
             app.UseAuthorization();
 
-            
 
             
         }
