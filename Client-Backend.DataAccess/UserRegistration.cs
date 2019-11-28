@@ -8,7 +8,6 @@ namespace Client_Backend.DataAccess
 {
         public class UserRegistration
         {
-        public int ID { get; set; }
         [DisplayName("First name")]
         [Required(ErrorMessage = "Please enter your first name."), MaxLength(100)]
         public string FirstName { get; set; }

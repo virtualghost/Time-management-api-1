@@ -1204,6 +1204,7 @@
       },
       "MicroDay-Backend.DataAccess/1.0.0": {
         "dependencies": {
+          "MicroDay-Backend": "1.0.0",
           "MicroDay-Backend.Domain": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.0.0",

@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <RootNamespace>Client_Backend.Business</RootNamespace>
+    <AssemblyName>MicroDay-Backend</AssemblyName>
   </PropertyGroup>
   
   <ItemGroup>

@@ -5,19 +5,22 @@ using System.Linq;
 using System.Threading.Tasks;
 using Client_Backend.DataAccess;
 using Microsoft.AspNetCore.Identity;
+using System.Diagnostics;
 
 namespace Client_Backend.Controllers.User_Controllers
 {
     [Route("api/[controller]")]
     public class AuthController : Controller
     {
-        private SignInManager<User> _signInManager;
-        private UserManager<User> _userManager;
+        private SignInManager<ApplicationUser> _signInManager;
+        private UserManager<ApplicationUser> _userManager;
 
-        public AuthController(UserManager<User> UserManager, SignInManager<User> SignInManager)
+        public AuthController(UserManager<ApplicationUser> UserManager, SignInManager<ApplicationUser> SignInManager)
         {
+            Debug.WriteLine("Hello World");
             _userManager = UserManager;
             _signInManager = SignInManager;
+            Debug.WriteLine("Hello Worlds");
         }
 
         [HttpPost("Register")]
@@ -25,11 +28,10 @@ namespace Client_Backend.Controllers.User_Controllers
         {
             if(ModelState.IsValid)
             {
-                var user = new User { 
+                var user = new ApplicationUser { 
                     FirstName = model.FirstName,
                     LastName = model.LastName,
-                    UserName = model.UserName,
-                    EmailAddress = model.EmailAddress
+                    UserName = model.UserName
                 };
                 var result = await _userManager.CreateAsync(user, model.Password);
 

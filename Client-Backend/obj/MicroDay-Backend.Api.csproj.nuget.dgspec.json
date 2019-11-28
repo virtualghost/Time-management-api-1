@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\time management\\Client-Backend\\MicroDay-Backend.Api.csproj": {}
+    "E:\\backend\\backend\\Client-Backend\\MicroDay-Backend.Api.csproj": {}
   },
   "projects": {
-    "E:\\time management\\Client-Backend.Business\\MicroDay-Backend.csproj": {
+    "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\time management\\Client-Backend.Business\\MicroDay-Backend.csproj",
+        "projectUniqueName": "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj",
         "projectName": "MicroDay-Backend",
-        "projectPath": "E:\\time management\\Client-Backend.Business\\MicroDay-Backend.csproj",
+        "projectPath": "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj",
         "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-        "outputPath": "E:\\time management\\Client-Backend.Business\\obj\\",
+        "outputPath": "E:\\backend\\backend\\Client-Backend.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "E:\\time management\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
-                "projectPath": "E:\\time management\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj"
+              "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
+                "projectPath": "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj"
               }
             }
           }
@@ -79,6 +79,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -87,14 +90,14 @@
         }
       }
     },
-    "E:\\time management\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj": {
+    "E:\\backend\\backend\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\time management\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj",
+        "projectUniqueName": "E:\\backend\\backend\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj",
         "projectName": "MicroDay-Backend.DataAccess",
-        "projectPath": "E:\\time management\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj",
+        "projectPath": "E:\\backend\\backend\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj",
         "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-        "outputPath": "E:\\time management\\Client-Backend.DataAccess\\obj\\",
+        "outputPath": "E:\\backend\\backend\\Client-Backend.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Microsoft\\Xamarin\\NuGet\\",
@@ -115,8 +118,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "E:\\time management\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
-                "projectPath": "E:\\time management\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj"
+              "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj": {
+                "projectPath": "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj"
+              },
+              "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
+                "projectPath": "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj"
               }
             }
           }
@@ -162,6 +168,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -170,14 +179,14 @@
         }
       }
     },
-    "E:\\time management\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
+    "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\time management\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj",
+        "projectUniqueName": "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj",
         "projectName": "MicroDay-Backend.Domain",
-        "projectPath": "E:\\time management\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj",
+        "projectPath": "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj",
         "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-        "outputPath": "E:\\time management\\Client-Backend.Domain\\obj\\",
+        "outputPath": "E:\\backend\\backend\\Client-Backend.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Microsoft\\Xamarin\\NuGet\\",
@@ -241,6 +250,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -249,14 +261,14 @@
         }
       }
     },
-    "E:\\time management\\Client-Backend\\MicroDay-Backend.Api.csproj": {
+    "E:\\backend\\backend\\Client-Backend\\MicroDay-Backend.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\time management\\Client-Backend\\MicroDay-Backend.Api.csproj",
+        "projectUniqueName": "E:\\backend\\backend\\Client-Backend\\MicroDay-Backend.Api.csproj",
         "projectName": "MicroDay-Backend.Api",
-        "projectPath": "E:\\time management\\Client-Backend\\MicroDay-Backend.Api.csproj",
+        "projectPath": "E:\\backend\\backend\\Client-Backend\\MicroDay-Backend.Api.csproj",
         "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-        "outputPath": "E:\\time management\\Client-Backend\\obj\\",
+        "outputPath": "E:\\backend\\backend\\Client-Backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Microsoft\\Xamarin\\NuGet\\",
@@ -277,14 +289,14 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "E:\\time management\\Client-Backend.Business\\MicroDay-Backend.csproj": {
-                "projectPath": "E:\\time management\\Client-Backend.Business\\MicroDay-Backend.csproj"
+              "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj": {
+                "projectPath": "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj"
               },
-              "E:\\time management\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj": {
-                "projectPath": "E:\\time management\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj"
+              "E:\\backend\\backend\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj": {
+                "projectPath": "E:\\backend\\backend\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj"
               },
-              "E:\\time management\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
-                "projectPath": "E:\\time management\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj"
+              "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
+                "projectPath": "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj"
               }
             }
           }

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.0": {
       "MicroDay-Backend.DataAccess/1.0.0": {
         "dependencies": {
+          "MicroDay-Backend": "1.0.0",
           "MicroDay-Backend.Domain": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.0.0",
@@ -839,6 +840,19 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "MicroDay-Backend/1.0.0": {
+        "dependencies": {
+          "MicroDay-Backend.Domain": "1.0.0",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.0.0",
+          "Microsoft.AspNetCore.Identity.UI": "3.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0",
+          "Microsoft.EntityFrameworkCore.Tools": "3.0.0"
+        },
+        "runtime": {
+          "MicroDay-Backend.dll": {}
+        }
+      },
       "MicroDay-Backend.Domain/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.0.0",
@@ -1530,6 +1544,11 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "MicroDay-Backend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "MicroDay-Backend.Domain/1.0.0": {
       "type": "project",
