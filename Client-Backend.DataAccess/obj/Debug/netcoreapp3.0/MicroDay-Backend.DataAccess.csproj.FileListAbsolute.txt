@@ -1,0 +1,41 @@
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.deps.json
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.runtimeconfig.json
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.runtimeconfig.dev.json
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.dll
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.pdb
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.dll
+E:\time management\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.pdb
+E:\time management\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.csprojAssemblyReference.cache
+E:\time management\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.AssemblyInfoInputs.cache
+E:\time management\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.AssemblyInfo.cs
+E:\time management\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.csproj.CopyComplete
+E:\time management\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.dll
+E:\time management\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.pdb
+C:\MicroDay\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.deps.json
+C:\MicroDay\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.runtimeconfig.json
+C:\MicroDay\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.runtimeconfig.dev.json
+C:\MicroDay\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.dll
+C:\MicroDay\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.pdb
+C:\MicroDay\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.dll
+C:\MicroDay\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.pdb
+C:\MicroDay\backend\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.csprojAssemblyReference.cache
+C:\MicroDay\backend\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.AssemblyInfoInputs.cache
+C:\MicroDay\backend\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.AssemblyInfo.cs
+C:\MicroDay\backend\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.csproj.CopyComplete
+C:\MicroDay\backend\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.dll
+C:\MicroDay\backend\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.pdb
+E:\backend\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.deps.json
+E:\backend\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.runtimeconfig.json
+E:\backend\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.runtimeconfig.dev.json
+E:\backend\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.dll
+E:\backend\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.pdb
+E:\backend\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.dll
+E:\backend\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.pdb
+E:\backend\backend\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.csprojAssemblyReference.cache
+E:\backend\backend\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.AssemblyInfoInputs.cache
+E:\backend\backend\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.AssemblyInfo.cs
+E:\backend\backend\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.csproj.CopyComplete
+E:\backend\backend\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.dll
+E:\backend\backend\Client-Backend.DataAccess\obj\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.pdb
+E:\backend\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.dll
+E:\backend\backend\Client-Backend.DataAccess\bin\Debug\netcoreapp3.0\MicroDay-Backend.pdb

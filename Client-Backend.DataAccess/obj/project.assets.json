@@ -1395,7 +1395,28 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "Client-Backend.Domain/1.0.0": {
+      "MicroDay-Backend/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "MicroDay-Backend.Domain": "1.0.0",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.0.0",
+          "Microsoft.AspNetCore.Identity.UI": "3.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0",
+          "Microsoft.EntityFrameworkCore.Tools": "3.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroDay-Backend.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroDay-Backend.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "MicroDay-Backend.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
@@ -1406,11 +1427,14 @@
           "Microsoft.EntityFrameworkCore.Tools": "3.0.0"
         },
         "compile": {
-          "bin/placeholder/Client-Backend.Domain.dll": {}
+          "bin/placeholder/MicroDay-Backend.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Client-Backend.Domain.dll": {}
-        }
+          "bin/placeholder/MicroDay-Backend.Domain.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -5263,15 +5287,21 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "Client-Backend.Domain/1.0.0": {
+    "MicroDay-Backend/1.0.0": {
       "type": "project",
-      "path": "../Client-Backend.Domain/Client-Backend.Domain.csproj",
-      "msbuildProject": "../Client-Backend.Domain/Client-Backend.Domain.csproj"
+      "path": "../Client-Backend.Business/MicroDay-Backend.csproj",
+      "msbuildProject": "../Client-Backend.Business/MicroDay-Backend.csproj"
+    },
+    "MicroDay-Backend.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Client-Backend.Domain/MicroDay-Backend.Domain.csproj",
+      "msbuildProject": "../Client-Backend.Domain/MicroDay-Backend.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Client-Backend.Domain >= 1.0.0",
+      "MicroDay-Backend >= 1.0.0",
+      "MicroDay-Backend.Domain >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.0.0",
       "Microsoft.AspNetCore.Identity.UI >= 3.0.0",
@@ -5287,11 +5317,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\time management\\Client-Backend.DataAccess\\Client-Backend.DataAccess.csproj",
-      "projectName": "Client-Backend.DataAccess",
-      "projectPath": "E:\\time management\\Client-Backend.DataAccess\\Client-Backend.DataAccess.csproj",
+      "projectUniqueName": "E:\\backend\\backend\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj",
+      "projectName": "MicroDay-Backend.DataAccess",
+      "projectPath": "E:\\backend\\backend\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj",
       "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-      "outputPath": "E:\\time management\\Client-Backend.DataAccess\\obj\\",
+      "outputPath": "E:\\backend\\backend\\Client-Backend.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "G:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5312,8 +5342,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj": {
-              "projectPath": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj"
+            "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj": {
+              "projectPath": "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj"
+            },
+            "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
+              "projectPath": "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj"
             }
           }
         }

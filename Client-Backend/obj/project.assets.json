@@ -1395,11 +1395,11 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "Client-Backend.Business/1.0.0": {
+      "MicroDay-Backend/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
-          "Client-Backend.Domain": "1.0.0",
+          "MicroDay-Backend.Domain": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.0.0",
           "Microsoft.AspNetCore.Identity.UI": "3.0.0",
@@ -1407,20 +1407,21 @@
           "Microsoft.EntityFrameworkCore.Tools": "3.0.0"
         },
         "compile": {
-          "bin/placeholder/Client-Backend.Business.dll": {}
+          "bin/placeholder/MicroDay-Backend.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Client-Backend.Business.dll": {}
+          "bin/placeholder/MicroDay-Backend.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Client-Backend.DataAccess/1.0.0": {
+      "MicroDay-Backend.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
-          "Client-Backend.Domain": "1.0.0",
+          "MicroDay-Backend": "1.0.0",
+          "MicroDay-Backend.Domain": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.0.0",
           "Microsoft.AspNetCore.Identity.UI": "3.0.0",
@@ -1428,16 +1429,16 @@
           "Microsoft.EntityFrameworkCore.Tools": "3.0.0"
         },
         "compile": {
-          "bin/placeholder/Client-Backend.DataAccess.dll": {}
+          "bin/placeholder/MicroDay-Backend.DataAccess.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Client-Backend.DataAccess.dll": {}
+          "bin/placeholder/MicroDay-Backend.DataAccess.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Client-Backend.Domain/1.0.0": {
+      "MicroDay-Backend.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
@@ -1448,11 +1449,14 @@
           "Microsoft.EntityFrameworkCore.Tools": "3.0.0"
         },
         "compile": {
-          "bin/placeholder/Client-Backend.Domain.dll": {}
+          "bin/placeholder/MicroDay-Backend.Domain.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Client-Backend.Domain.dll": {}
-        }
+          "bin/placeholder/MicroDay-Backend.Domain.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       }
     }
   },
@@ -5305,27 +5309,27 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "Client-Backend.Business/1.0.0": {
+    "MicroDay-Backend/1.0.0": {
       "type": "project",
-      "path": "../Client-Backend.Business/Client-Backend.Business.csproj",
-      "msbuildProject": "../Client-Backend.Business/Client-Backend.Business.csproj"
+      "path": "../Client-Backend.Business/MicroDay-Backend.csproj",
+      "msbuildProject": "../Client-Backend.Business/MicroDay-Backend.csproj"
     },
-    "Client-Backend.DataAccess/1.0.0": {
+    "MicroDay-Backend.DataAccess/1.0.0": {
       "type": "project",
-      "path": "../Client-Backend.DataAccess/Client-Backend.DataAccess.csproj",
-      "msbuildProject": "../Client-Backend.DataAccess/Client-Backend.DataAccess.csproj"
+      "path": "../Client-Backend.DataAccess/MicroDay-Backend.DataAccess.csproj",
+      "msbuildProject": "../Client-Backend.DataAccess/MicroDay-Backend.DataAccess.csproj"
     },
-    "Client-Backend.Domain/1.0.0": {
+    "MicroDay-Backend.Domain/1.0.0": {
       "type": "project",
-      "path": "../Client-Backend.Domain/Client-Backend.Domain.csproj",
-      "msbuildProject": "../Client-Backend.Domain/Client-Backend.Domain.csproj"
+      "path": "../Client-Backend.Domain/MicroDay-Backend.Domain.csproj",
+      "msbuildProject": "../Client-Backend.Domain/MicroDay-Backend.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
-      "Client-Backend.Business >= 1.0.0",
-      "Client-Backend.DataAccess >= 1.0.0",
-      "Client-Backend.Domain >= 1.0.0",
+      "MicroDay-Backend >= 1.0.0",
+      "MicroDay-Backend.DataAccess >= 1.0.0",
+      "MicroDay-Backend.Domain >= 1.0.0",
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.0.0",
       "Microsoft.AspNetCore.Identity.UI >= 3.0.0",
@@ -5341,11 +5345,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\time management\\Client-Backend\\Client-Backend.Api.csproj",
-      "projectName": "Client-Backend.Api",
-      "projectPath": "E:\\time management\\Client-Backend\\Client-Backend.Api.csproj",
+      "projectUniqueName": "E:\\backend\\backend\\Client-Backend\\MicroDay-Backend.Api.csproj",
+      "projectName": "MicroDay-Backend.Api",
+      "projectPath": "E:\\backend\\backend\\Client-Backend\\MicroDay-Backend.Api.csproj",
       "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-      "outputPath": "E:\\time management\\Client-Backend\\obj\\",
+      "outputPath": "E:\\backend\\backend\\Client-Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "G:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5366,14 +5370,14 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "E:\\time management\\Client-Backend.Business\\Client-Backend.Business.csproj": {
-              "projectPath": "E:\\time management\\Client-Backend.Business\\Client-Backend.Business.csproj"
+            "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj": {
+              "projectPath": "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj"
             },
-            "E:\\time management\\Client-Backend.DataAccess\\Client-Backend.DataAccess.csproj": {
-              "projectPath": "E:\\time management\\Client-Backend.DataAccess\\Client-Backend.DataAccess.csproj"
+            "E:\\backend\\backend\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj": {
+              "projectPath": "E:\\backend\\backend\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj"
             },
-            "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj": {
-              "projectPath": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj"
+            "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
+              "projectPath": "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj"
             }
           }
         }
