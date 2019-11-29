@@ -1185,6 +1185,7 @@
         }
       },
       "System.Security.SecureString/4.3.0": {
+<<<<<<< HEAD
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0",
@@ -1347,6 +1348,232 @@
         }
       },
       "System.Xml.XmlDocument/4.3.0": {
+=======
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Handles": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Security.Cryptography.Primitives": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Threading": "4.3.0"
+        },
+        "compile": {
+          "ref/netstandard1.3/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard1.3/System.Security.SecureString.dll": {
+            "assetType": "runtime",
+            "rid": "unix"
+          },
+          "runtimes/win/lib/netstandard1.3/System.Security.SecureString.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "System.Text.Encoding/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        },
+        "compile": {
+          "ref/netstandard1.3/_._": {}
+        }
+      },
+      "System.Text.Encoding.CodePages/4.5.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "2.0.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.0"
+        },
+        "compile": {
+          "ref/netstandard2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encoding.CodePages.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "System.Text.Encoding.Extensions/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0",
+          "System.Text.Encoding": "4.3.0"
+        },
+        "compile": {
+          "ref/netstandard1.3/_._": {}
+        }
+      },
+      "System.Text.RegularExpressions/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime": "4.3.0"
+        },
+        "compile": {
+          "ref/netcoreapp1.1/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.6/System.Text.RegularExpressions.dll": {}
+        }
+      },
+      "System.Threading/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime": "4.3.0",
+          "System.Threading.Tasks": "4.3.0"
+        },
+        "compile": {
+          "ref/netstandard1.3/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.3/System.Threading.dll": {}
+        }
+      },
+      "System.Threading.Tasks/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0",
+          "Microsoft.NETCore.Targets": "1.1.0",
+          "System.Runtime": "4.3.0"
+        },
+        "compile": {
+          "ref/netstandard1.3/_._": {}
+        }
+      },
+      "System.Threading.Tasks.Extensions/4.5.2": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/_._": {}
+        }
+      },
+      "System.Xml.ReaderWriter/4.3.0": {
+>>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
+        "type": "package",
+        "dependencies": {
+          "System.Collections": "4.3.0",
+          "System.Diagnostics.Debug": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.IO": "4.3.0",
+<<<<<<< HEAD
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Threading": "4.3.0",
+          "System.Xml.ReaderWriter": "4.3.0"
+=======
+          "System.IO.FileSystem": "4.3.0",
+          "System.IO.FileSystem.Primitives": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Runtime.InteropServices": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Text.Encoding.Extensions": "4.3.0",
+          "System.Text.RegularExpressions": "4.3.0",
+          "System.Threading.Tasks": "4.3.0",
+          "System.Threading.Tasks.Extensions": "4.3.0"
+>>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
+        },
+        "compile": {
+          "ref/netstandard1.3/_._": {}
+        },
+        "runtime": {
+<<<<<<< HEAD
+          "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
+        }
+      },
+      "System.Xml.XmlSerializer/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Collections": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.IO": "4.3.0",
+          "System.Linq": "4.3.0",
+          "System.Reflection": "4.3.0",
+          "System.Reflection.Emit": "4.3.0",
+          "System.Reflection.Emit.ILGeneration": "4.3.0",
+          "System.Reflection.Extensions": "4.3.0",
+          "System.Reflection.Primitives": "4.3.0",
+          "System.Reflection.TypeExtensions": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Text.RegularExpressions": "4.3.0",
+          "System.Threading": "4.3.0",
+          "System.Xml.ReaderWriter": "4.3.0",
+          "System.Xml.XmlDocument": "4.3.0"
+=======
+          "lib/netstandard1.3/System.Xml.ReaderWriter.dll": {}
+        }
+      },
+      "System.Xml.XDocument/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Collections": "4.3.0",
+          "System.Diagnostics.Debug": "4.3.0",
+          "System.Diagnostics.Tools": "4.3.0",
+          "System.Globalization": "4.3.0",
+          "System.IO": "4.3.0",
+          "System.Reflection": "4.3.0",
+          "System.Resources.ResourceManager": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Runtime.Extensions": "4.3.0",
+          "System.Text.Encoding": "4.3.0",
+          "System.Threading": "4.3.0",
+          "System.Xml.ReaderWriter": "4.3.0"
+>>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
+        },
+        "compile": {
+          "ref/netstandard1.3/_._": {}
+        },
+        "runtime": {
+<<<<<<< HEAD
+          "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
+        }
+      },
+      "MicroDay-Backend/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "dependencies": {
+          "MicroDay-Backend.Domain": "1.0.0",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.0.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.0.0",
+          "Microsoft.AspNetCore.Identity.UI": "3.0.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0",
+          "Microsoft.EntityFrameworkCore.Tools": "3.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MicroDay-Backend.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MicroDay-Backend.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
+      "MicroDay-Backend.Domain/1.0.0": {
+=======
+          "lib/netstandard1.3/System.Xml.XDocument.dll": {}
+        }
+      },
+      "System.Xml.XmlDocument/4.3.0": {
         "type": "package",
         "dependencies": {
           "System.Collections": "4.3.0",
@@ -1395,28 +1622,8 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "MicroDay-Backend/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.0",
-        "dependencies": {
-          "MicroDay-Backend.Domain": "1.0.0",
-          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "3.0.0",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "3.0.0",
-          "Microsoft.AspNetCore.Identity.UI": "3.0.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "3.0.0",
-          "Microsoft.EntityFrameworkCore.Tools": "3.0.0"
-        },
-        "compile": {
-          "bin/placeholder/MicroDay-Backend.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/MicroDay-Backend.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
-      "MicroDay-Backend.Domain/1.0.0": {
+      "Client-Backend.Domain/1.0.0": {
+>>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.0",
         "dependencies": {
@@ -1427,6 +1634,7 @@
           "Microsoft.EntityFrameworkCore.Tools": "3.0.0"
         },
         "compile": {
+<<<<<<< HEAD
           "bin/placeholder/MicroDay-Backend.Domain.dll": {}
         },
         "runtime": {
@@ -1435,6 +1643,13 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+=======
+          "bin/placeholder/Client-Backend.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Client-Backend.Domain.dll": {}
+        }
+>>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
       }
     }
   },
@@ -5287,12 +5502,16 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+<<<<<<< HEAD
     "MicroDay-Backend/1.0.0": {
       "type": "project",
       "path": "../Client-Backend.Business/MicroDay-Backend.csproj",
       "msbuildProject": "../Client-Backend.Business/MicroDay-Backend.csproj"
     },
     "MicroDay-Backend.Domain/1.0.0": {
+=======
+    "Client-Backend.Domain/1.0.0": {
+>>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
       "type": "project",
       "path": "../Client-Backend.Domain/MicroDay-Backend.Domain.csproj",
       "msbuildProject": "../Client-Backend.Domain/MicroDay-Backend.Domain.csproj"
@@ -5300,8 +5519,12 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
+<<<<<<< HEAD
       "MicroDay-Backend >= 1.0.0",
       "MicroDay-Backend.Domain >= 1.0.0",
+=======
+      "Client-Backend.Domain >= 1.0.0",
+>>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 3.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.0.0",
       "Microsoft.AspNetCore.Identity.UI >= 3.0.0",
@@ -5317,11 +5540,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "E:\\backend\\backend\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj",
       "projectName": "MicroDay-Backend.DataAccess",
       "projectPath": "E:\\backend\\backend\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj",
       "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
       "outputPath": "E:\\backend\\backend\\Client-Backend.DataAccess\\obj\\",
+=======
+      "projectUniqueName": "E:\\time management\\Client-Backend.DataAccess\\Client-Backend.DataAccess.csproj",
+      "projectName": "Client-Backend.DataAccess",
+      "projectPath": "E:\\time management\\Client-Backend.DataAccess\\Client-Backend.DataAccess.csproj",
+      "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
+      "outputPath": "E:\\time management\\Client-Backend.DataAccess\\obj\\",
+>>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "G:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5342,11 +5573,16 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
+<<<<<<< HEAD
             "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj": {
               "projectPath": "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj"
             },
             "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
               "projectPath": "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj"
+=======
+            "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj": {
+              "projectPath": "E:\\time management\\Client-Backend.Domain\\Client-Backend.Domain.csproj"
+>>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
             }
           }
         }
