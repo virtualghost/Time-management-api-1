@@ -1,159 +1,212 @@
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\appsettings.Development.json
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\appsettings.json
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.StaticWebAssets.xml
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.exe
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.deps.json
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.runtimeconfig.json
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.runtimeconfig.dev.json
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.pdb
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.dll
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.pdb
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.pdb
-E:\time management\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.pdb
-E:\time management\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.csprojAssemblyReference.cache
-E:\time management\Client-Backend\obj\Debug\netcoreapp3.0\staticwebassets\MicroDay-Backend.Api.StaticWebAssets.Manifest.cache
-E:\time management\Client-Backend\obj\Debug\netcoreapp3.0\staticwebassets\MicroDay-Backend.Api.StaticWebAssets.xml
-E:\time management\Client-Backend\obj\Debug\netcoreapp3.0\Client_Backend.Properties.Resources.resources
-E:\time management\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.csproj.GenerateResource.cache
-E:\time management\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cs
-E:\time management\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cache
-E:\time management\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.AssemblyInfoInputs.cache
-E:\time management\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.AssemblyInfo.cs
-E:\time management\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.RazorTargetAssemblyInfo.cache
-E:\time management\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.csproj.CopyComplete
-E:\time management\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.dll
-E:\time management\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.pdb
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\appsettings.Development.json
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\appsettings.json
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.StaticWebAssets.xml
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.exe
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.deps.json
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.runtimeconfig.json
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.runtimeconfig.dev.json
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.pdb
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.dll
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.pdb
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.pdb
-C:\MicroDay\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.pdb
-C:\MicroDay\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.csprojAssemblyReference.cache
-C:\MicroDay\backend\Client-Backend\obj\Debug\netcoreapp3.0\staticwebassets\MicroDay-Backend.Api.StaticWebAssets.Manifest.cache
-C:\MicroDay\backend\Client-Backend\obj\Debug\netcoreapp3.0\staticwebassets\MicroDay-Backend.Api.StaticWebAssets.xml
-C:\MicroDay\backend\Client-Backend\obj\Debug\netcoreapp3.0\Client_Backend.Properties.Resources.resources
-C:\MicroDay\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.csproj.GenerateResource.cache
-C:\MicroDay\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\MicroDay\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\MicroDay\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.AssemblyInfoInputs.cache
-C:\MicroDay\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.AssemblyInfo.cs
-C:\MicroDay\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.RazorTargetAssemblyInfo.cache
-C:\MicroDay\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.csproj.CopyComplete
-C:\MicroDay\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.dll
-C:\MicroDay\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.pdb
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\appsettings.Development.json
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\appsettings.json
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.StaticWebAssets.xml
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.exe
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.deps.json
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.runtimeconfig.json
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.runtimeconfig.dev.json
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Api.pdb
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Identity.UI.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.dll
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.pdb
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.DataAccess.pdb
-E:\backend\backend\Client-Backend\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.pdb
-E:\backend\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.csprojAssemblyReference.cache
-E:\backend\backend\Client-Backend\obj\Debug\netcoreapp3.0\staticwebassets\MicroDay-Backend.Api.StaticWebAssets.Manifest.cache
-E:\backend\backend\Client-Backend\obj\Debug\netcoreapp3.0\staticwebassets\MicroDay-Backend.Api.StaticWebAssets.xml
-E:\backend\backend\Client-Backend\obj\Debug\netcoreapp3.0\Client_Backend.Properties.Resources.resources
-E:\backend\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.csproj.GenerateResource.cache
-E:\backend\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cs
-E:\backend\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cache
-E:\backend\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.AssemblyInfoInputs.cache
-E:\backend\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.AssemblyInfo.cs
-E:\backend\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.RazorTargetAssemblyInfo.cache
-E:\backend\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.csproj.CopyComplete
-E:\backend\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.dll
-E:\backend\backend\Client-Backend\obj\Debug\netcoreapp3.0\MicroDay-Backend.Api.pdb
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/appsettings.Development.json
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/appsettings.json
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.StaticWebAssets.xml
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.exe
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.deps.json
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.runtimeconfig.json
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.runtimeconfig.dev.json
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.pdb
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.UI.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.DataAccess.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.dll
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.pdb
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.DataAccess.pdb
+E:/time management/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.pdb
+E:/time management/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.csprojAssemblyReference.cache
+E:/time management/Client-Backend/obj/Debug/netcoreapp3.0/staticwebassets/MicroDay-Backend.Api.StaticWebAssets.Manifest.cache
+E:/time management/Client-Backend/obj/Debug/netcoreapp3.0/staticwebassets/MicroDay-Backend.Api.StaticWebAssets.xml
+E:/time management/Client-Backend/obj/Debug/netcoreapp3.0/Client_Backend.Properties.Resources.resources
+E:/time management/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.csproj.GenerateResource.cache
+E:/time management/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cs
+E:/time management/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cache
+E:/time management/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.AssemblyInfoInputs.cache
+E:/time management/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.AssemblyInfo.cs
+E:/time management/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.RazorTargetAssemblyInfo.cache
+E:/time management/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.csproj.CopyComplete
+E:/time management/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.dll
+E:/time management/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.pdb
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/appsettings.Development.json
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/appsettings.json
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.StaticWebAssets.xml
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.exe
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.deps.json
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.runtimeconfig.json
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.runtimeconfig.dev.json
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.pdb
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.DataAccess.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.dll
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.pdb
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.DataAccess.pdb
+C:/MicroDay/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.pdb
+C:/MicroDay/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.csprojAssemblyReference.cache
+C:/MicroDay/backend/Client-Backend/obj/Debug/netcoreapp3.0/staticwebassets/MicroDay-Backend.Api.StaticWebAssets.Manifest.cache
+C:/MicroDay/backend/Client-Backend/obj/Debug/netcoreapp3.0/staticwebassets/MicroDay-Backend.Api.StaticWebAssets.xml
+C:/MicroDay/backend/Client-Backend/obj/Debug/netcoreapp3.0/Client_Backend.Properties.Resources.resources
+C:/MicroDay/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.csproj.GenerateResource.cache
+C:/MicroDay/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cs
+C:/MicroDay/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/MicroDay/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.AssemblyInfoInputs.cache
+C:/MicroDay/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.AssemblyInfo.cs
+C:/MicroDay/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.RazorTargetAssemblyInfo.cache
+C:/MicroDay/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.csproj.CopyComplete
+C:/MicroDay/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.dll
+C:/MicroDay/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.pdb
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/appsettings.Development.json
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/appsettings.json
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.StaticWebAssets.xml
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.exe
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.deps.json
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.runtimeconfig.json
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.runtimeconfig.dev.json
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.pdb
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.UI.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.DataAccess.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.dll
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.pdb
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.DataAccess.pdb
+E:/backend/backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.pdb
+E:/backend/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.csprojAssemblyReference.cache
+E:/backend/backend/Client-Backend/obj/Debug/netcoreapp3.0/staticwebassets/MicroDay-Backend.Api.StaticWebAssets.Manifest.cache
+E:/backend/backend/Client-Backend/obj/Debug/netcoreapp3.0/staticwebassets/MicroDay-Backend.Api.StaticWebAssets.xml
+E:/backend/backend/Client-Backend/obj/Debug/netcoreapp3.0/Client_Backend.Properties.Resources.resources
+E:/backend/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.csproj.GenerateResource.cache
+E:/backend/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cs
+E:/backend/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cache
+E:/backend/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.AssemblyInfoInputs.cache
+E:/backend/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.AssemblyInfo.cs
+E:/backend/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.RazorTargetAssemblyInfo.cache
+E:/backend/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.csproj.CopyComplete
+E:/backend/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.dll
+E:/backend/backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.pdb
+/home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.csprojAssemblyReference.cache
+/home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp3.0/staticwebassets/MicroDay-Backend.Api.StaticWebAssets.Manifest.cache
+/home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp3.0/staticwebassets/MicroDay-Backend.Api.StaticWebAssets.xml
+/home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp3.0/Client_Backend.Properties.Resources.resources
+/home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.csproj.GenerateResource.cache
+/home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.AssemblyInfoInputs.cache
+/home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.AssemblyInfo.cs
+/home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.pdb
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/appsettings.Development.json
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/appsettings.json
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.StaticWebAssets.xml
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.deps.json
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.runtimeconfig.json
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.runtimeconfig.dev.json
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Api.pdb
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Identity.UI.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.Data.SqlClient.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win-arm64/native/sni.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win-x64/native/sni.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.DataAccess.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.dll
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.pdb
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.DataAccess.pdb
+/home/laurentiu/Programare/client-backend/Client-Backend/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.pdb
+/home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.RazorTargetAssemblyInfo.cache
+/home/laurentiu/Programare/client-backend/Client-Backend/obj/Debug/netcoreapp3.0/MicroDay-Backend.Api.csproj.CopyComplete

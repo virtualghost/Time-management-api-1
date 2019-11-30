@@ -1,8 +1,4 @@
 ﻿using Client_Backend.DataAccess;
-<<<<<<< HEAD
-=======
-using Client_Backend.Helpers;
->>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -10,11 +6,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Hosting;
-<<<<<<< HEAD
 using Microsoft.AspNetCore.Identity;
 using System;
-=======
->>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
 
 namespace Client_Backend
 {
@@ -31,7 +24,6 @@ namespace Client_Backend
         {
             
             ConfigureServicesDependency(services);
-<<<<<<< HEAD
             services.AddAuthorization();
             
             //get local database ConnectionString from AppSettings
@@ -40,12 +32,6 @@ namespace Client_Backend
                 setupAction.ReturnHttpNotAcceptable = true;
                 setupAction.EnableEndpointRouting = false;
             });
-=======
-            
-            
-            //get local database ConnectionString from AppSettings
-            
->>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
 
             services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(
@@ -55,7 +41,7 @@ namespace Client_Backend
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
             //Add automapper
-<<<<<<< HEAD
+
             services.Configure<IdentityOptions>(options =>
             {
                 // Password settings.
@@ -76,10 +62,6 @@ namespace Client_Backend
                 "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._@+";
                 options.User.RequireUniqueEmail = false;
             });
-
-=======
-            
->>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
         }
 
         private void ConfigureServicesDependency(IServiceCollection services)
@@ -87,12 +69,7 @@ namespace Client_Backend
             
         }
 
-<<<<<<< HEAD
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
-=======
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env,
-            ILoggerFactory loggerFactory)
->>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
         {
             if (env.IsDevelopment())
             {
@@ -104,7 +81,6 @@ namespace Client_Backend
                 app.UseExceptionHandler("/Error");
                 app.UseHsts();
             }
-<<<<<<< HEAD
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
@@ -118,23 +94,6 @@ namespace Client_Backend
             {
                 routes.MapRoute("default", "{controller=Home}/{action=Index}/{id?}");
             });
-
-=======
-
-            app.UseHttpsRedirection();
-            app.UseStaticFiles();
-
-            app.UseRouting();
-
-            app.UseAuthorization();
-
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapRazorPages();
-            });
-
-            
->>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
         }
     }
 }
