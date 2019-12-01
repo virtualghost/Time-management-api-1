@@ -1411,10 +1411,7 @@
         },
         "runtime": {
           "bin/placeholder/MicroDay-Backend.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "MicroDay-Backend.DataAccess/1.0.0": {
         "type": "project",
@@ -1433,10 +1430,7 @@
         },
         "runtime": {
           "bin/placeholder/MicroDay-Backend.DataAccess.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       },
       "MicroDay-Backend.Domain/1.0.0": {
         "type": "project",
@@ -1453,10 +1447,7 @@
         },
         "runtime": {
           "bin/placeholder/MicroDay-Backend.Domain.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
@@ -2421,7 +2412,7 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "LE/oChpRvkSi3U25u0KnJcI44JeDZ1QJCyN4qFDx2uusEypdqR24w7lKYw21eYe5esuCBuc862wRmpF63Yy1KQ==",
+      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
@@ -2683,11 +2674,12 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
+      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5338,46 +5330,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ghost\\.nuget\\packages\\": {},
-    "G:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/laurentiu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\backend\\backend\\Client-Backend\\MicroDay-Backend.Api.csproj",
+      "projectUniqueName": "/home/laurentiu/Programare/client-backend/Client-Backend/MicroDay-Backend.Api.csproj",
       "projectName": "MicroDay-Backend.Api",
-      "projectPath": "E:\\backend\\backend\\Client-Backend\\MicroDay-Backend.Api.csproj",
-      "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-      "outputPath": "E:\\backend\\backend\\Client-Backend\\obj\\",
+      "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend/MicroDay-Backend.Api.csproj",
+      "packagesPath": "/home/laurentiu/.nuget/packages/",
+      "outputPath": "/home/laurentiu/Programare/client-backend/Client-Backend/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "G:\\Microsoft\\Xamarin\\NuGet\\",
-        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ghost\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/home/laurentiu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj": {
-              "projectPath": "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj"
+            "/home/laurentiu/Programare/client-backend/Client-Backend.Business/MicroDay-Backend.csproj": {
+              "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Business/MicroDay-Backend.csproj"
             },
-            "E:\\backend\\backend\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj": {
-              "projectPath": "E:\\backend\\backend\\Client-Backend.DataAccess\\MicroDay-Backend.DataAccess.csproj"
+            "/home/laurentiu/Programare/client-backend/Client-Backend.DataAccess/MicroDay-Backend.DataAccess.csproj": {
+              "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.DataAccess/MicroDay-Backend.DataAccess.csproj"
             },
-            "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
-              "projectPath": "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj"
+            "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/MicroDay-Backend.Domain.csproj": {
+              "projectPath": "/home/laurentiu/Programare/client-backend/Client-Backend.Domain/MicroDay-Backend.Domain.csproj"
             }
           }
         }
@@ -5430,7 +5413,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
