@@ -35,7 +35,7 @@ namespace Client_Backend
 
             services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(
-            Configuration.GetConnectionString("DefaultConnection")));
+            Configuration.GetConnectionString("Develop")));
             services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddSignInManager()
                 .AddEntityFrameworkStores<ApplicationDbContext>()

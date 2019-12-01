@@ -23,7 +23,7 @@ namespace Client_Backend.Controllers.User_Controllers
             Debug.WriteLine("Hello Worlds");
         }
 
-        [HttpPost("Register")]
+        [HttpPost("register")]
         public async Task<IActionResult> Register(UserRegistration model)
         {
             if(ModelState.IsValid)
