@@ -1,30 +1,40 @@
-E:\time management\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.deps.json
-E:\time management\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.runtimeconfig.json
-E:\time management\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.runtimeconfig.dev.json
-E:\time management\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.dll
-E:\time management\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.pdb
-E:\time management\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.csprojAssemblyReference.cache
-E:\time management\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.AssemblyInfoInputs.cache
-E:\time management\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.AssemblyInfo.cs
-E:\time management\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.dll
-E:\time management\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.pdb
-C:\MicroDay\backend\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.deps.json
-C:\MicroDay\backend\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.runtimeconfig.json
-C:\MicroDay\backend\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.runtimeconfig.dev.json
-C:\MicroDay\backend\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.dll
-C:\MicroDay\backend\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.pdb
-C:\MicroDay\backend\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.csprojAssemblyReference.cache
-C:\MicroDay\backend\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.AssemblyInfoInputs.cache
-C:\MicroDay\backend\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.AssemblyInfo.cs
-C:\MicroDay\backend\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.dll
-C:\MicroDay\backend\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.pdb
-E:\backend\backend\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.deps.json
-E:\backend\backend\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.runtimeconfig.json
-E:\backend\backend\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.runtimeconfig.dev.json
-E:\backend\backend\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.dll
-E:\backend\backend\Client-Backend.Domain\bin\Debug\netcoreapp3.0\MicroDay-Backend.Domain.pdb
-E:\backend\backend\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.csprojAssemblyReference.cache
-E:\backend\backend\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.AssemblyInfoInputs.cache
-E:\backend\backend\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.AssemblyInfo.cs
-E:\backend\backend\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.dll
-E:\backend\backend\Client-Backend.Domain\obj\Debug\netcoreapp3.0\MicroDay-Backend.Domain.pdb
+E:/time management/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.deps.json
+E:/time management/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.runtimeconfig.json
+E:/time management/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.runtimeconfig.dev.json
+E:/time management/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.dll
+E:/time management/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.pdb
+E:/time management/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.csprojAssemblyReference.cache
+E:/time management/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.AssemblyInfoInputs.cache
+E:/time management/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.AssemblyInfo.cs
+E:/time management/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.dll
+E:/time management/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.pdb
+C:/MicroDay/backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.deps.json
+C:/MicroDay/backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.runtimeconfig.json
+C:/MicroDay/backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.runtimeconfig.dev.json
+C:/MicroDay/backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.dll
+C:/MicroDay/backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.pdb
+C:/MicroDay/backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.csprojAssemblyReference.cache
+C:/MicroDay/backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.AssemblyInfoInputs.cache
+C:/MicroDay/backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.AssemblyInfo.cs
+C:/MicroDay/backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.dll
+C:/MicroDay/backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.pdb
+E:/backend/backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.deps.json
+E:/backend/backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.runtimeconfig.json
+E:/backend/backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.runtimeconfig.dev.json
+E:/backend/backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.dll
+E:/backend/backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.pdb
+E:/backend/backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.csprojAssemblyReference.cache
+E:/backend/backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.AssemblyInfoInputs.cache
+E:/backend/backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.AssemblyInfo.cs
+E:/backend/backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.dll
+E:/backend/backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.pdb
+/home/laurentiu/Programare/client-backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.deps.json
+/home/laurentiu/Programare/client-backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.runtimeconfig.json
+/home/laurentiu/Programare/client-backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.runtimeconfig.dev.json
+/home/laurentiu/Programare/client-backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.dll
+/home/laurentiu/Programare/client-backend/Client-Backend.Domain/bin/Debug/netcoreapp3.0/MicroDay-Backend.Domain.pdb
+/home/laurentiu/Programare/client-backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.csprojAssemblyReference.cache
+/home/laurentiu/Programare/client-backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.AssemblyInfoInputs.cache
+/home/laurentiu/Programare/client-backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.AssemblyInfo.cs
+/home/laurentiu/Programare/client-backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.dll
+/home/laurentiu/Programare/client-backend/Client-Backend.Domain/obj/Debug/netcoreapp3.0/MicroDay-Backend.Domain.pdb
