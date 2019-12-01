@@ -62,6 +62,10 @@ namespace Client_Backend
                 "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-._@+";
                 options.User.RequireUniqueEmail = false;
             });
+
+            services.AddCors(options => options.AddPolicy("AllowAllOrigins", builder => builder.AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader()));
         }
 
         private void ConfigureServicesDependency(IServiceCollection services)
@@ -84,6 +88,7 @@ namespace Client_Backend
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseCors("AllowAllOrigins");
 
             app.UseRouting();
 

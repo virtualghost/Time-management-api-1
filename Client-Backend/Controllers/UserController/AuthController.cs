@@ -15,11 +15,11 @@ namespace Client_Backend.Controllers.User_Controllers
         private SignInManager<ApplicationUser> _signInManager;
         private UserManager<ApplicationUser> _userManager;
 
-        public AuthController(UserManager<ApplicationUser> UserManager, SignInManager<ApplicationUser> SignInManager)
+        public AuthController(UserManager<ApplicationUser> userManager, SignInManager<ApplicationUser> signInManager)
         {
             Debug.WriteLine("Hello World");
-            _userManager = UserManager;
-            _signInManager = SignInManager;
+            _userManager = userManager;
+            _signInManager = signInManager;
             Debug.WriteLine("Hello Worlds");
         }
 
@@ -51,21 +51,21 @@ namespace Client_Backend.Controllers.User_Controllers
             return StatusCode(202);
         }
 
-        [HttpPost("Logout")]
+        [HttpPost("logout")]
         public async Task<IActionResult> Logout()
         {
             await _signInManager.SignOutAsync();
             return StatusCode(205);
         }
 
-        [HttpGet("Login")]
-        public IActionResult Login(string ReturnUrl = "")
-        {
-            var model = new UserLogin { ReturnUrl = ReturnUrl };
-            return StatusCode(200); // "no content, refresh; refresh client view
-        }
+        // [HttpGet("login")]
+        // public IActionResult Login(string ReturnUrl = "")
+        // {
+        //     var model = new UserLogin { ReturnUrl = ReturnUrl };
+        //     return StatusCode(200); // "no content, refresh; refresh client view
+        // }
 
-        [HttpPost("Login")]
+        [HttpPost("login")]
         public async Task<IActionResult> Login(UserLogin model)
         {
             if(ModelState.IsValid)
