@@ -12,7 +12,7 @@ using System.Diagnostics;
 
 namespace Client_Backend.DataAccess
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             :base(options)
@@ -22,7 +22,7 @@ namespace Client_Backend.DataAccess
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
-            builder.Entity<IdentityUser>(b =>
+            builder.Entity<ApplicationUser>(b =>
             {
                 // Primary key
                 b.HasKey(u => u.Id);
@@ -42,15 +42,9 @@ namespace Client_Backend.DataAccess
                 b.Property(u => u.NormalizedUserName).HasMaxLength(256);
                 b.Property(u => u.Email).HasMaxLength(256);
                 b.Property(u => u.NormalizedEmail).HasMaxLength(256);
+                b.Property(u => u.FirstName).HasMaxLength(256);
+                b.Property(u => u.LastName).HasMaxLength(256);
             });
-
-           
-
-           
-
-           
-
-           
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
@@ -62,8 +56,7 @@ namespace Client_Backend.DataAccess
                     .AddJsonFile("appsettings.json")
                     .Build();
 
-                var connectionString = configuration.GetConnectionString("DefaultConnection");
-
+                var connectionString = configuration.GetConnectionString("Develop");
                 optionsBuilder.UseSqlServer(connectionString);
 
             }

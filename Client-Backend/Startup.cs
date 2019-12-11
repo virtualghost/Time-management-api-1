@@ -1,8 +1,4 @@
 ﻿using Client_Backend.DataAccess;
-<<<<<<< HEAD
-=======
-using Client_Backend.Helpers;
->>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore;
@@ -10,16 +6,18 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Hosting;
-<<<<<<< HEAD
 using Microsoft.AspNetCore.Identity;
+using Microsoft.OpenApi.Models;
 using System;
-=======
->>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 
 namespace Client_Backend
 {
     public class Startup
     {
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -31,7 +29,6 @@ namespace Client_Backend
         {
             
             ConfigureServicesDependency(services);
-<<<<<<< HEAD
             services.AddAuthorization();
             
             //get local database ConnectionString from AppSettings
@@ -40,22 +37,41 @@ namespace Client_Backend
                 setupAction.ReturnHttpNotAcceptable = true;
                 setupAction.EnableEndpointRouting = false;
             });
-=======
-            
-            
-            //get local database ConnectionString from AppSettings
-            
->>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
 
             services.AddDbContext<ApplicationDbContext>(options =>
             options.UseSqlServer(
-            Configuration.GetConnectionString("DefaultConnection")));
+            Configuration.GetConnectionString("Develop")));
             services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddSignInManager()
                 .AddEntityFrameworkStores<ApplicationDbContext>()
                 .AddDefaultTokenProviders();
-            //Add automapper
-<<<<<<< HEAD
+
+            var signingKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["Tokens:Key"]));
+            services.AddAuthentication(options =>
+            {
+                options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            }).AddJwtBearer(config =>
+            {
+                config.RequireHttpsMetadata = false;
+                config.SaveToken = true;
+                config.TokenValidationParameters = new TokenValidationParameters()
+                {
+                    IssuerSigningKey = signingKey,
+                    ValidateAudience = true,
+                    ValidAudience = this.Configuration["Tokens:Audience"],
+                    ValidateIssuer = true,
+                    ValidIssuer = this.Configuration["Tokens:Issuer"],
+                    ValidateLifetime = true,
+                    ValidateIssuerSigningKey = true
+                };
+            });
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
+            });
+
             services.Configure<IdentityOptions>(options =>
             {
                 // Password settings.
@@ -63,7 +79,7 @@ namespace Client_Backend
                 options.Password.RequireLowercase = true;
                 options.Password.RequireNonAlphanumeric = true;
                 options.Password.RequireUppercase = true;
-                options.Password.RequiredLength = 6;
+                options.Password.RequiredLength = 8;
                 options.Password.RequiredUniqueChars = 1;
 
                 // Lockout settings.
@@ -77,9 +93,12 @@ namespace Client_Backend
                 options.User.RequireUniqueEmail = false;
             });
 
-=======
-            
->>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
+
+
+            services.AddCors(options => options.AddPolicy("AllowAllOrigins", builder => builder.AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader()));
+                
         }
 
         private void ConfigureServicesDependency(IServiceCollection services)
@@ -87,12 +106,7 @@ namespace Client_Backend
             
         }
 
-<<<<<<< HEAD
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
-=======
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env,
-            ILoggerFactory loggerFactory)
->>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
         {
             if (env.IsDevelopment())
             {
@@ -104,11 +118,16 @@ namespace Client_Backend
                 app.UseExceptionHandler("/Error");
                 app.UseHsts();
             }
-<<<<<<< HEAD
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseCors("AllowAllOrigins");
+            app.UseSwagger();
 
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API V1");
+            });
             app.UseRouting();
 
             app.UseAuthentication();
@@ -119,22 +138,6 @@ namespace Client_Backend
                 routes.MapRoute("default", "{controller=Home}/{action=Index}/{id?}");
             });
 
-=======
-
-            app.UseHttpsRedirection();
-            app.UseStaticFiles();
-
-            app.UseRouting();
-
-            app.UseAuthorization();
-
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapRazorPages();
-            });
-
-            
->>>>>>> 21b1790532b6a17463b00a9800e0534eef52960d
         }
     }
 }

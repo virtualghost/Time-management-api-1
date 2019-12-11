@@ -1,0 +1,13 @@
+E:\definitetime\Time-management-api-1-master\Client-Backend.Business\bin\Debug\netcoreapp3.1\MicroDay-Backend.deps.json
+E:\definitetime\Time-management-api-1-master\Client-Backend.Business\bin\Debug\netcoreapp3.1\MicroDay-Backend.runtimeconfig.json
+E:\definitetime\Time-management-api-1-master\Client-Backend.Business\bin\Debug\netcoreapp3.1\MicroDay-Backend.runtimeconfig.dev.json
+E:\definitetime\Time-management-api-1-master\Client-Backend.Business\bin\Debug\netcoreapp3.1\MicroDay-Backend.dll
+E:\definitetime\Time-management-api-1-master\Client-Backend.Business\bin\Debug\netcoreapp3.1\MicroDay-Backend.pdb
+E:\definitetime\Time-management-api-1-master\Client-Backend.Business\bin\Debug\netcoreapp3.1\MicroDay-Backend.Domain.dll
+E:\definitetime\Time-management-api-1-master\Client-Backend.Business\bin\Debug\netcoreapp3.1\MicroDay-Backend.Domain.pdb
+E:\definitetime\Time-management-api-1-master\Client-Backend.Business\obj\Debug\netcoreapp3.1\MicroDay-Backend.csprojAssemblyReference.cache
+E:\definitetime\Time-management-api-1-master\Client-Backend.Business\obj\Debug\netcoreapp3.1\MicroDay-Backend.AssemblyInfoInputs.cache
+E:\definitetime\Time-management-api-1-master\Client-Backend.Business\obj\Debug\netcoreapp3.1\MicroDay-Backend.AssemblyInfo.cs
+E:\definitetime\Time-management-api-1-master\Client-Backend.Business\obj\Debug\netcoreapp3.1\MicroDay-Backend.csproj.CopyComplete
+E:\definitetime\Time-management-api-1-master\Client-Backend.Business\obj\Debug\netcoreapp3.1\MicroDay-Backend.dll
+E:\definitetime\Time-management-api-1-master\Client-Backend.Business\obj\Debug\netcoreapp3.1\MicroDay-Backend.pdb

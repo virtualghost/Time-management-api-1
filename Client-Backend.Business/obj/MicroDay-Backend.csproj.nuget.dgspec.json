@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj": {}
+    "E:\\definitetime\\Time-management-api-1-master\\Client-Backend.Business\\MicroDay-Backend.csproj": {}
   },
   "projects": {
-    "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj": {
+    "E:\\definitetime\\Time-management-api-1-master\\Client-Backend.Business\\MicroDay-Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj",
+        "projectUniqueName": "E:\\definitetime\\Time-management-api-1-master\\Client-Backend.Business\\MicroDay-Backend.csproj",
         "projectName": "MicroDay-Backend",
-        "projectPath": "E:\\backend\\backend\\Client-Backend.Business\\MicroDay-Backend.csproj",
+        "projectPath": "E:\\definitetime\\Time-management-api-1-master\\Client-Backend.Business\\MicroDay-Backend.csproj",
         "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-        "outputPath": "E:\\backend\\backend\\Client-Backend.Business\\obj\\",
+        "outputPath": "E:\\definitetime\\Time-management-api-1-master\\Client-Backend.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Microsoft\\Xamarin\\NuGet\\",
@@ -23,17 +23,17 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
-                "projectPath": "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj"
+              "E:\\definitetime\\Time-management-api-1-master\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
+                "projectPath": "E:\\definitetime\\Time-management-api-1-master\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj"
               }
             }
           }
@@ -45,27 +45,29 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
@@ -86,18 +88,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
+    "E:\\definitetime\\Time-management-api-1-master\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj",
+        "projectUniqueName": "E:\\definitetime\\Time-management-api-1-master\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj",
         "projectName": "MicroDay-Backend.Domain",
-        "projectPath": "E:\\backend\\backend\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj",
+        "projectPath": "E:\\definitetime\\Time-management-api-1-master\\Client-Backend.Domain\\MicroDay-Backend.Domain.csproj",
         "packagesPath": "C:\\Users\\ghost\\.nuget\\packages\\",
-        "outputPath": "E:\\backend\\backend\\Client-Backend.Domain\\obj\\",
+        "outputPath": "E:\\definitetime\\Time-management-api-1-master\\Client-Backend.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Microsoft\\Xamarin\\NuGet\\",
@@ -109,14 +111,14 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.0": {
+          "netcoreapp3.1": {
             "projectReferences": {}
           }
         },
@@ -127,27 +129,29 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.0": {
+        "netcoreapp3.1": {
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
@@ -168,7 +172,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
